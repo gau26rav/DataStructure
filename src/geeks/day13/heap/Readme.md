@@ -13,7 +13,7 @@ Equivalent Operations are -
 - Insert - add() =  Insert and call the heapify up to maintain the balanced min heap property.
 
 
-###Questions covered in the class
+### Questions covered in the class
 
 - Given an almost sorted array, every element is almost k distance from its sorted position.Sort the array
 	
